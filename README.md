@@ -1,4 +1,4 @@
-# Cryptoholic
+# Cryptoholic Need Update
 
 A Cryptocurrency app made with Flutter using Provider and BLoC pattern.
 
